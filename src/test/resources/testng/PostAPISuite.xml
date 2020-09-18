@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Posts Test">
+
+    <test name="Posts Test" preserve-order="true">
+        <classes>
+            <class name="com.hamza.restassured.starter.test.posts.PostsSmokeIT">
+            </class>
+
+        </classes>
+    </test>
+
+</suite>
